@@ -6,6 +6,3 @@ def sequence(list,order):
     else:
         lis = list
     return list
-    
-sol = sequence([1,2,4,3,7],"asc")
-print(sol)
