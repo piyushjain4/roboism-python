@@ -8,8 +8,3 @@ def calculate(a,arith_op,b):
     else:
         result = a*b
     return result
-
-
-
-p = calculate(5,"*",2)
-print(p)
