@@ -5,10 +5,3 @@ def sum_of_int(string):
             x = int(i)
             y+=x
     return y
-
-p =sum_of_int( "h20 15 wa73r")
-print(p)
-
-
-
-
