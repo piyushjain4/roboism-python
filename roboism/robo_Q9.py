@@ -5,8 +5,4 @@ def sort(string):
     for i in range(len(string)):
         stri += lst[i]
 
-    return stri
-
-p = sort("piyush")
-print(p) 
-
+    return stri 
